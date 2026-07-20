@@ -1,2 +1,0 @@
-# GithubCopilotDemo
-Github Copilot Demo
